@@ -1,56 +1,181 @@
-<img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" height="40%" width="100%">
+
+<img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" width="100%"/>
 
 <div align="center">
 
-  # 👋 Hi, I'm Arunaw Rishe M  
-  ### crafting websites with 𝖑𝖔𝖛𝖊 and 𝖕𝖗𝖊𝖈𝖎𝖘𝖎𝖔𝖓✨
+# ⚡ ARUNAW RISHE M ⚡
+
+### `Building Ideas → Products → Experiences`
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Product+Builder;React+%7C+FastAPI+%7C+Next.js;UI%2FUX+Enthusiast;Always+Learning+Something+New..." />
 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ARUNAWRISHE&label=Profile%20views&color=0e75b6&style=flat" alt="ARUNAW RISHE M" /> </p>
----
-
-### 🌱 **Currently Learning**
-- improving **JavaScript** & **Python** & **JAVA**⬆️
-- learning **React** ⚛️
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ARUNAWRISHE&label=PROFILE+VIEWS&color=00fff7&style=for-the-badge" />
+</p>
 
 ---
 
-### 👨‍💻 **About Me**
-- Passionate in **WEB DEVELOPING** , **UI** & **UX** 🎨
-- Open to **collaboration** on web projects and innovative ideas ⚡
-- Building myself daily 📈
-- Reach me on my **<a href="https://discord.gg/u5vYdrJFqc" target="blank">Discord Server</a>** 📫
+# 🧠 SYSTEM STATUS
 
-### ❤️ **Hobbies**
-- Programming 👨‍💻
-- Driving 🚗
-- Cricket ⚽
-- Gaming 🎮
-- Cubing 
----
+```yaml
+Name: Arunaw Rishe M
+Role: Full Stack Developer
+Mission: Transform ideas into impactful digital products
 
-## ⚒️ **Tools & Technologies**
+Current Focus:
+  - AI Ad Studio Development
+  - FastAPI Backend Engineering
+  - Next.js Frontend Development
+  - Scalable System Design
 
-
-
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
+Status: ONLINE
+Coffee Level: ██████████ 100%
+```
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ARUNAWRISHE&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ARUNAWRISHE&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ARUNAWRISHE&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 🚀 CURRENTLY BUILDING
+
+### 🔥 AI Ad Studio
+
+```bash
+Input   → Website URL
+Analyze → Extract Product Intelligence
+Script  → Generate Nano-Level Ad Script
+Scenes  → Create Storyboards
+Voice   → Generate Voiceovers
+Video   → Produce Ad Creatives
+Edit    → Manual + AI Assisted Editing
+Export  → Ready for Campaign Launch
+```
+
 ---
 
-## 💬 **Connect with Me**
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joyboy__ar) 
+# 🌱 CURRENTLY LEARNING
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+```diff
++ Advanced JavaScript
++ FastAPI
++ Next.js
++ Spring Boot
++ System Design
++ AI Product Engineering
++ Cloud Deployment
+```
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ARUNAWRISHE&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# 💻 TECH STACK
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,spring" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
+
+---
+
+# ⚔️ DEVELOPER PHILOSOPHY
+
+> "Don't just write code.
+>
+> Build products that solve real problems."
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ARUNAWRISHE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=ARUNAWRISHE&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARUNAWRISHE&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 🎯 2026 GOALS
+
+- [x] Launch AI Ad Studio MVP
+- [x] Master FastAPI
+- [x] Build Production-Grade Next.js Apps
+- [x] Learn Advanced System Design
+- [x] Contribute to Open Source
+- [x] Reach 500+ GitHub Contributions
+- [x] Build Products Used by Thousands
+
+---
+
+# 🎮 WHEN I'M OFFLINE
+
+```yaml
+Hobbies:
+  - Programming 👨‍💻
+  - Driving 🚗
+  - Cricket 🏏
+  - Gaming 🎮
+  - Speed Cubing 🧩
+```
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<p align="center">
+
+<a href="https://instagram.com/joyboy__ar">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://discord.gg/u5vYdrJFqc">
+  <img src="https://skillicons.dev/icons?i=discord" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⚡ CYBER TERMINAL LOG ⚡
+
+```bash
+> Developer initialized...
+> Building the future...
+> Deploying ideas...
+> Never stop learning.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFF7,100:6C63FF&height=120&section=footer"/>
+
+</div>
+````
